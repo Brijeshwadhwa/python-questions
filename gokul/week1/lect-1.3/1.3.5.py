@@ -3,3 +3,7 @@
 # ```
 # print("hello",12,24.5)
 # ```
+
+
+Yes the code is valid
+The output of this : hello 12 24.5
