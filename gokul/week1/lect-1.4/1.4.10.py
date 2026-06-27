@@ -3,3 +3,9 @@
 # LINE-1
 # LINE-2
 # ```
+
+Replace LINE-1
+a = int(input())
+Replace LINE-2
+print(a ** 2)
+
