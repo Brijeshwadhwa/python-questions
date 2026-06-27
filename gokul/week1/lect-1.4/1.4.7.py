@@ -7,3 +7,14 @@
 # print(n+2)
 # print(n+3)
 # ```
+
+
+enter a number: 16 
+
+16
+
+17
+
+18
+
+19
