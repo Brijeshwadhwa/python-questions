@@ -4,3 +4,12 @@
 #     x=LINE-2
 #     print(a[x])
 #     ```
+
+
+
+ERROR!
+Traceback (most recent call last):
+  File "<main.py>", line 1
+    a="gokul
+      ^
+SyntaxError: unterminated string literal (detected at line 1)
