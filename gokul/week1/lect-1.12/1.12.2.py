@@ -6,3 +6,11 @@
 #     print(s=="India")
 #     print(s=="india")
 #     ```
+
+
+
+True
+False
+False
+True
+
