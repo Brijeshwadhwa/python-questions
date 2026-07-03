@@ -5,3 +5,10 @@
 #     print('ab'<'az')
 #     print('abcde'<'abcdef')
 #     ```
+
+
+
+False
+True
+True
+True
