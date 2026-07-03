@@ -4,3 +4,8 @@
 #     print(s*5)
 #     print(s[0]*5)
 #     ```
+
+
+
+goodgoodgoodgoodgood
+ggggg
