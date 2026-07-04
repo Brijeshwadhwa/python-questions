@@ -4,3 +4,6 @@
 # print(n)
 # ```
 
+
+
+output will be = ValueError: invalid literal for int() with base 10: '12.2'
