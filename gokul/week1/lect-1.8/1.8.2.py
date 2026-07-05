@@ -3,3 +3,8 @@
 #     x=false
 #     print(type(x))
 #     ```
+
+
+
+
+NameError: name 'false' is not defined. Did you mean: 'False'?
