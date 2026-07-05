@@ -7,3 +7,12 @@
 #     d=a*b
 #     print(d)
 #     ```
+
+
+
+indiaindiaindia
+
+
+
+
+TypeError: can't multiply sequence by non-int of type 'str'
