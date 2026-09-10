@@ -3,3 +3,6 @@
 print(10**0.5)
 import math
 print(math.sqrt(10))
+
+
+both are correct
