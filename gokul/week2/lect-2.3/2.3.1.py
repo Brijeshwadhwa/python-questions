@@ -7,3 +7,8 @@
 #     a=a+a
 #     print(a)
 #     ```
+
+
+<class 'int'>
+<class 'str'>
+IndiaIndia
