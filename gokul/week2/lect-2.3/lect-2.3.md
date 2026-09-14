@@ -21,3 +21,9 @@
     n=n/2
     print(type(n))
     print(n)
+    ```
+
+
+
+
+Completed
