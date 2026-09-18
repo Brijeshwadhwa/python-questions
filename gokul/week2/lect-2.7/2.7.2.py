@@ -13,3 +13,13 @@ print(alpha[i%26])
 
 i=28
 print(alpha[i%26])
+
+
+
+
+output 
+
+4
+f
+a
+c
